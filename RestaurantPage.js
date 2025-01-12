@@ -34,7 +34,7 @@ const Restaurants = () => {
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredRestaurants, setFilteredRestaurants] = useState([]);
   const [favorites, setFavorites] = useState([]);
-  const GOOGLE_PLACES_API_KEY = "AIzaSyBRq8b1FjegwqCyZLEoQYuaOf6cYoXqV0c";
+  const GOOGLE_PLACES_API_KEY = "";
   const navigation = useNavigation(); // Hook to navigate to other screens
   const [mapRegion, setMapRegion] = useState(null); // State for map region
 
