@@ -66,7 +66,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Restaurant-Reviewer.git
+git clone https://github.com/JaskiratCodeKaur/RestaurantReviewer.git
 
 # Navigate to the project directory
 cd Restaurant-Reviewer
