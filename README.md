@@ -23,7 +23,7 @@
 - ❤️ Add restaurants to your favorites list
 - 🔒 Secure Gmail authentication for user profiles
 
-<h2>🖼 Screenshots</h2>
+<!--h2>🖼 Screenshots</h2>
 <div align="center">
   <img src="./assets/screenshots/home.jpeg" width="30%" alt="Home Screen">
   <img src="./assets/screenshots/map.jpeg" width="30%" alt="Map View">
@@ -32,7 +32,7 @@
   <img src="./assets/screenshots/restaurant-detail.jpeg" width="30%" alt="Restaurant Detail">
   <img src="./assets/screenshots/review-form.jpeg" width="30%" alt="Review Form">
   <img src="./assets/screenshots/favorites.jpeg" width="30%" alt="Favorites">
-</div>
+</div-->
 
 ## 🚀 Features
 
