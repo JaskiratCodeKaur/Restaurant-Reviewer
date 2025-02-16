@@ -71,16 +71,7 @@ git clone https://github.com/yourusername/Restaurant-Reviewer.git
 # Navigate to the project directory
 cd Restaurant-Reviewer
 
-# Install frontend dependencies
-cd frontend
+# Install dependencies
 npm install
-
-# Install backend dependencies
-cd ../backend
-npm install
-
-# Configure environment variables
-# Copy the example environment files and update them with your credentials
-cp .env.example .env
 ```
 <h2>🌐 API Setup</h2> <details> <summary>📌 Google Maps API Integration</summary> <ol> <li>Visit <a href="https://developers.google.com/maps/documentation">Google Maps API</a></li> <li>Create a project in the Google Cloud Console</li> <li>Enable the Google Maps JavaScript API and Places API</li> <li>Generate an API key and add it to your `.env` file</li> </ol> </details><h2>🤝 Contributing</h2> <div style="background: #f5f5f5; padding: 15px; border-radius: 5px;"> <ol> <li>Fork the Project</li> <li>Create your Feature Branch <pre><code>git checkout -b feature/AmazingFeature</code></pre> </li> <li>Commit your Changes <pre><code>git commit -m 'Add some AmazingFeature'</code></pre> </li> <li>Push to the Branch <pre><code>git push origin feature/AmazingFeature</code></pre> </li> <li>Open a Pull Request</li> </ol> </div>
